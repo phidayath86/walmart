@@ -1,3 +1,4 @@
+Hello i am in Master branch
 this file has been created after cloning the git repo - initially very first time
 
 ===================
